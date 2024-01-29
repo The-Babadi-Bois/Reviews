@@ -18,7 +18,7 @@ tags:
 
 # Game [Don't Starve Together]
 
-![Don't Starve Together Logo](https://the-babadi-bois.github.io/Images/DST.png)
+![Don't Starve Together Logo](DST.png)
 
 ## Overview
 
