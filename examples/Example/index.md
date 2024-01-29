@@ -9,7 +9,7 @@ tags:
 ---
 
 # Game [Game Title]
-![Don't Starve Together Logo][Image]
+![Don't Starve Together Logo][https://The-Babadi-Bois.github.io/Images/]
 ## Overview
 
 - **Genre:** [Genre]
@@ -59,4 +59,3 @@ Provide a rating or score based on your assessment.
 [Steam][Steam]
 
 [Steam]: https://store.steampowered.com/app/
-[Image]: https://The-Babadi-Bois.github.io/Images/

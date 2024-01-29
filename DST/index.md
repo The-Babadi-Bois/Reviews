@@ -8,8 +8,8 @@ tags:
   - Game Review
 ---
 
-# Game [Game Title]
-![Don't Starve Together Logo][Image]
+# Game [Don't Starve Together]
+![Don't Starve Together Logo][https://The-Babadi-Bois.github.io/Images/DST.png]
 ## Overview
 
 - **Genre:** [Action, Adventure, Indie, RPG, Simulation, Strategy]
@@ -55,4 +55,3 @@ The game overall is good, this opinion may change.
 [Steam][Steam]
 
 [Steam]: https://store.steampowered.com/322330/Dont_Starve_Together/?curator_clanid=44851426
-[Image]: https://The-Babadi-Bois.github.io/Images/DST.png
