@@ -4,8 +4,8 @@ author: John Doe
 date: 2024-02-10
 description: This is a brief description of the page.
 tags:
-  - Tag1
-  - Tag2
+  - DST
+  - Game Reviews
 ---
 
 # Game [Game Title]
