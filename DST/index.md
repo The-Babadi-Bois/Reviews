@@ -4,8 +4,8 @@ author: Lucas Mutter
 date: 2024-01-29
 description: The review of Don't Starve Together
 tags:
-  - Tag1
-  - Tag2
+  - DST
+  - Game Review
 ---
 
 # Game [Game Title]
