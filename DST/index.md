@@ -9,7 +9,7 @@ tags:
 ---
 
 # Game [Don't Starve Together]
-![Don't Starve Together Logo][https://The-Babadi-Bois.github.io/Images/DST.png]
+![Don't Starve Together Logo](https://The-Babadi-Bois.github.io/Images/DST.png)
 ## Overview
 
 - **Genre:** [Action, Adventure, Indie, RPG, Simulation, Strategy]
